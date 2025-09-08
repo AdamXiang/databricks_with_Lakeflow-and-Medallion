@@ -97,3 +97,9 @@ workspace/ # Root Workspace
 - Designing and implementing the Medallion Architecture.
 
 - Managing pipelines with Lakeflow Declarative Pipelines.
+
+## 🚀 How to Use
+
+1. This project is provided as a **ZIP file**, exported directly from the Databricks workspace.  
+2. Simply open your own **Databricks workspace**, upload the ZIP file, and extract it to start using the project.  
+
